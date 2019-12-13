@@ -1,7 +1,7 @@
 
 # robofriends
 
-View your cool robotic friends
+View your cool robotic friends.   
 To run the project:
 
 1. Clone this repo
